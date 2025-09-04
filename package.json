@@ -1,6 +1,6 @@
 {
   "name": "supply-chain-traceability",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nền tảng blockchain theo dõi chuỗi cung ứng",
   "main": "index.js",
   "scripts": {
