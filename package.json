@@ -1,0 +1,19 @@
+{
+  "name": "supply-chain-traceability",
+  "version": "1.0.0",
+  "description": "Nền tảng blockchain theo dõi chuỗi cung ứng",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^10.0.0",
+    "web3": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": ["blockchain", "supply chain", "traceability"],
+  "author": "Cộng đồng Supply Chain",
+  "license": "ISC"
+}
