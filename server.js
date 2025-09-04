@@ -8,9 +8,9 @@ const PORT = process.env.PORT || 5000;
 app.use(express.json());
 
 app.get('/', (req, res) => {
-    res.send('Chào mừng đến với Nền tảng theo dõi chuỗi cung ứng!');
+    res.send('Welcome to the Supply Chain Tracking Platform!');
 });
 
 app.listen(PORT, () => {
-    console.log(`Server đang chạy tại http://localhost:${PORT}`);
+    console.log(`Server running at http://localhost:${PORT}`);
 });
